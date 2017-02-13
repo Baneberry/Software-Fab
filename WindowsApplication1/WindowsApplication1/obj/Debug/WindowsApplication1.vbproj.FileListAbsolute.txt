@@ -35,3 +35,18 @@ D:\Aaron's Folder\WindowsApplication1\WindowsApplication1\bin\Debug\Database11Da
 D:\Aaron's Folder\WindowsApplication1\WindowsApplication1\bin\Debug\Database11DataSet.xsc
 D:\Aaron's Folder\WindowsApplication1\WindowsApplication1\bin\Debug\Database11DataSet.xsd
 D:\Aaron's Folder\WindowsApplication1\WindowsApplication1\bin\Debug\Database11DataSet.xss
+C:\Users\USer\Documents\GitHub\Software-Fab\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\USer\Documents\GitHub\Software-Fab\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\USer\Documents\GitHub\Software-Fab\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\USer\Documents\GitHub\Software-Fab\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\USer\Documents\GitHub\Software-Fab\WindowsApplication1\WindowsApplication1\bin\Debug\Database11DataSet.Designer.vb
+C:\Users\USer\Documents\GitHub\Software-Fab\WindowsApplication1\WindowsApplication1\bin\Debug\Database11DataSet.xsc
+C:\Users\USer\Documents\GitHub\Software-Fab\WindowsApplication1\WindowsApplication1\bin\Debug\Database11DataSet.xsd
+C:\Users\USer\Documents\GitHub\Software-Fab\WindowsApplication1\WindowsApplication1\bin\Debug\Database11DataSet.xss
+C:\Users\USer\Documents\GitHub\Software-Fab\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\USer\Documents\GitHub\Software-Fab\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\USer\Documents\GitHub\Software-Fab\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\USer\Documents\GitHub\Software-Fab\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\USer\Documents\GitHub\Software-Fab\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\USer\Documents\GitHub\Software-Fab\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\USer\Documents\GitHub\Software-Fab\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
